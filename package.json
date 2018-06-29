@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/sneteroff/git-test.git"
+    "url": "git+https://github.com/snesteroff/git-test.git"
   },
   "keywords": [
     "learning"
@@ -18,9 +18,9 @@
   "author": "Quantum Leap",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/sneteroff/git-test/issues"
+    "url": "https://github.com/snesteroff/git-test/issues"
   },
-  "homepage": "https://github.com/sneteroff/git-test#readme",
+  "homepage": "https://github.com/snesteroff/git-test#readme",
   "devDependencies": {
     "lite-server": "^2.4.0"
   }
